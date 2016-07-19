@@ -4,4 +4,4 @@
 
 * Draw the **UML Diagram** of the class `Pokemon` ;
 * Write the **PHP code** of this class ;
-* Create a `Pull-Request` to share your work !
+* Create a `Pull-Request` to share your code !
